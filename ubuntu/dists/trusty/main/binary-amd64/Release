@@ -1,0 +1,5 @@
+Origin: . trusty
+Label: . trusty
+Archive: trusty
+Architecture: amd64
+Component: main

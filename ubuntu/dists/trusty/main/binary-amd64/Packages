@@ -1,0 +1,18 @@
+Package: nghttp2
+Priority: extra
+Section: default
+Installed-Size: 20613
+Maintainer: <@e943c559abde>
+Architecture: amd64
+Version: 1.5.0
+Depends: libssl1.0.0 (>= 1.0.1), libev4 (>= 4.15), zlib1g (>= 1.2.3), libxml2 (>= 2.7.7), libjansson4 (>= 2.5)
+Filename: pool/main/n/nghttp2/nghttp2_1.5.0_amd64.deb
+Size: 7194816
+MD5sum: 795b92708a7fa7f237f40866779c8328
+SHA1: bcff9418d978819a355c07e3a2be8f47ab982233
+SHA256: 823f030a431e07f6b91a4723adadf0034f54c445688bb816ccd81f11e1d35fd2
+Description: no description given
+License: unknown
+Homepage: http://example.com/no-uri-given
+Vendor: @e943c559abde
+
